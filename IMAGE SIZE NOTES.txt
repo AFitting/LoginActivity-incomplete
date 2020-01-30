@@ -1,0 +1,1 @@
+Images larger than 1776 x 1080px will not work
